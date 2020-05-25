@@ -18,9 +18,9 @@
 
 *Clean up your git commit history before submitting the pull request!*
 
--- [ ] I (developer) have created unit tests and the tests pass
--- [ ] I (developer) have created functional tests (Selenium tests) if applicable
--- [ ] I (developer) have tested the changes manually
--- [ ] Reviewer has finished the code review
--- [ ] After the review, the developer has made changes accordingly
--- [ ] Customer/Teacher has accepted the implementation of the feature
+- [ ] I (developer) have created unit tests and the tests pass
+- [ ] I (developer) have created functional tests (Selenium tests) if applicable
+- [ ] I (developer) have tested the changes manually
+- [ ] Reviewer has finished the code review
+- [ ] After the review, the developer has made changes accordingly
+- [ ] Customer/Teacher has accepted the implementation of the feature
