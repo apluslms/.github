@@ -2,6 +2,8 @@
 
 *Provide an overview of the changes and their purpose: what, why, how.*
 
+Fixes #<issue number>
+
 # Testing
 
 *Remember to add or update unit tests for new features and changes.*
