@@ -1,28 +1,65 @@
 # Description
 
-*Provide an overview of the changes and their purpose: what, why, how.*
+**What?**
+
+[ANSWER HERE]
+
+**Why?**
+
+[ANSWER HERE]
+
+**How?**
+
+[ANSWER HERE]
 
 Fixes #<issue number>
 
+
 # Testing
 
-*Remember to add or update unit tests for new features and changes.*
-*Remember to also run all tests available in the project in order to see that they still pass.*
+**Remember to add or update unit tests for new features and changes.**
 
-*Describe here what needs to be tested MANUALLY due to these changes.*
-*Think of what is affected by these changes and could become broken (and can not be easily tested automatically)?*
+* How to [test your changes in A-plus](https://github.com/apluslms/a-plus/tree/master/doc#running-tests-and-updating-translations)
+* How to [test accessibility](https://wiki.aalto.fi/display/EDIT/How+to+check+the+accessibility+of+pull+requests)
+
+
+**What type of test did you run?**
+
+- [ ] Accessibility test using the [WAVE](https://wave.webaim.org/extension/) extension.
+- [ ] Django unit tests.
+- [ ] Selenium tests.
+- [ ] Other test. *(Add a description below)*
+- [ ] Manual testing.
+
+[ADD A DESCRIPTION ABOUT WHAT YOU TESTED MANUALLY]
+
+**Did you test the changes in**
+
+- [ ] Chrome
+- [ ] Firefox
+- [ ] This pull request cannot be tested in the browser.
+
+**Think of what is affected by these changes and could become broken**
+
+# Translation
+
+- [ ] Did you modify or add new strings in the user interface? ([Read about how to create translation](https://github.com/apluslms/a-plus/tree/master/doc#running-tests-and-updating-translations))
+
+# Programming style
+
+- [ ] Did you follow our [style guides](https://apluslms.github.io/contribute/styleguides/)?
 
 # Have you updated the README or other relevant documentation?
 
-*Don't forget to update the documentation if it is relevant for this PR.*
+- [ ] documents inside the doc directory.
+- [ ] README.md.
+- [ ] Aplus Manual.
+- [ ] Other documentation (mention below which documentation).
 
-# Is it [Done](https://wiki.aalto.fi/display/EDIT/Definition+of+Done)?
+# Is it Done?
 
-*Clean up your git commit history before submitting the pull request!*
-
-- [ ] I (developer) have created unit tests and the tests pass
-- [ ] I (developer) have created functional tests (Selenium tests) if applicable
-- [ ] I (developer) have tested the changes manually
 - [ ] Reviewer has finished the code review
 - [ ] After the review, the developer has made changes accordingly
 - [ ] Customer/Teacher has accepted the implementation of the feature
+
+*Clean up your git commit history before submitting the pull request!*
