@@ -48,6 +48,7 @@ Fixes #<issue number>
 # Programming style
 
 - [ ] Did you follow our [style guides](https://apluslms.github.io/contribute/styleguides/)?
+- [ ] Did you use Python type hinting in all functions that you added or edited? ([type hints](https://docs.python.org/3/library/typing.html) for function parameters and return values)
 
 # Have you updated the README or other relevant documentation?
 
