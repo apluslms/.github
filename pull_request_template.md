@@ -27,7 +27,7 @@ Fixes #<issue number>
 
 - [ ] Accessibility test using the [WAVE](https://wave.webaim.org/extension/) extension.
 - [ ] Django unit tests.
-- [ ] Selenium tests.
+- [ ] Playwright tests.
 - [ ] Other test. *(Add a description below)*
 - [ ] Manual testing.
 
